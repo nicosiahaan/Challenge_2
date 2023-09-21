@@ -1,0 +1,225 @@
+body{
+    font-family: Helvetica;
+  }
+  .main-section{
+    background-color: #F1F3FF;
+  }
+  .left-text{
+    padding-right: 150px;
+  }
+  
+  h2{
+    font-family: Helvetica;
+    font-size: 36px;
+    font-weight: bold;
+    margin-top: 70px;
+  }
+  p{
+    font-family: Helvetica;
+    padding-top : 10px;
+  }
+  button{
+    font-family: Helvetica;
+    font-size: 14px;
+    width: 140px;
+    height: 36px;
+    margin-top: 8px;
+    background:#5CB85F;
+    border: 0;
+    color: #FFFFFF;
+    border-radius: 2px; 
+  }
+  
+  .navbar-point{
+    list-style-type: none;
+    margin: 0;
+    padding-right: 100px;
+    overflow: hidden;
+    background-color: #white;
+    float : right;
+  }
+  
+  .navbar-point li{
+    font-family: Helvetica;
+    float: left;
+    padding: 10px;
+  }
+  
+  .selected
+  {
+    color: white;
+    background-color:#5CB85F;
+  }
+  
+  .image-car{
+    width: 704px;
+    height: 407px;
+    padding-top: 20px;
+    padding-left: 145px;
+  }
+  
+  .our-sectionContent{
+    width: 1027px;
+    margin-top: 150px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  
+  image-girl{
+    width: 459px;
+    height: 428px;
+  }
+  h3{
+    font-size: 24px;
+    font-family: Helvetica;
+    font-weight: bold;
+  }
+  .text-ourSection{
+    padding-left: 115px;
+  }
+  .check-list {
+    padding-top: 35px;
+    margin: 0;
+    padding-left: 0.6rem;
+  }
+  .check-list li {
+    font-family: Helvetica;
+    position: relative;
+    list-style-type: none;
+    padding-left: 2rem;
+    margin-bottom: 1rem;
+  }
+  .check-list li:before {
+      content: '';
+      display: block;
+      position: absolute;
+      left: 0;
+      top: -2px;
+      width: 5px;
+      height: 11px;
+      border-width: 0 2px 2px 0;
+      border-style: solid;
+      border-color: #0D28A6;
+      background-color: #CFD4ED;
+      transform-origin: bottom left;
+      transform: rotate(45deg);
+  }
+  .text-whyUs{
+    margin-left: 260px;
+  }
+  
+  .rectangle {
+      width: 268px; 
+      height: 196px;
+      border-color: #D0D0D0;
+      border-width: thin;
+      text-align: center; 
+      display: flex; 
+      align-items: center; 
+      justify-content: center; 
+      border-radius: 8px; 
+  }
+  
+  .title-whyUs {
+    color: #000000; 
+    text-size: 16px;
+    font-weight: bold;
+  }
+  
+  .explanation-whyUs {
+    text-size: 14px;
+  }
+  
+  .x1-card{
+    width: 230px;
+    border: 1px;
+    background: transparent;
+    border-style: solid;
+    border-color: #D0D0D0;
+    border-radius: 8px;
+    margin-left: 12px;
+    margin-right: 12px;
+    padding: 12px;
+  }
+  
+  .card-group{
+    margin-right: auto;
+    margin-left: auto;
+  }
+  
+  .card-text{
+    margin-top: 10px;
+    padding-top: 10px;
+  }
+  
+  .carousel .item {
+    width: 34px;
+  }
+  
+  .item img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 134px;
+      min-height: 500px;
+  }
+  
+  .carousel-inner{
+    width: 34px;
+  }
+  
+  .carousel-control-next-icon ,.carousel-control-prev-icon{
+    background-color: #5CB85F;
+  }
+  
+  .getting-started-section, .faq-section, .testimonials-section, .whyUs-section{
+    margin-top: 150px;
+  }
+  
+  .container-xl{
+    background-color:#0D28A6;
+    width: 1168px;
+    height: 326px;
+    border-radius: 13px;
+  }
+  
+  .d-flex{
+    width: 1168px;
+  }
+  
+  .p-2{
+    padding-left: 100px;
+    width: 798px;
+  }
+  
+  .accordion-header .accordion-body{
+    height: 20px;
+    width: 668px;
+    border-radius: 4px;
+  }
+  
+  .address-footer li, .navbar-footer li, .logo-footer li {
+    display: block;
+  }
+  
+  .address-footer li{
+    padding-bottom: 15px;
+  }
+  
+  .navbar-footer li{
+    padding-bottom: 12px;
+  }
+  
+  a:link {
+    color: #000000;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  i{
+    font-size: 20px;
+    color: blue;
+    padding: 10px;
+  }
+  
+    
