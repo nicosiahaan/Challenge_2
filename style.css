@@ -24,7 +24,6 @@ p {
   font-size: 14px;
   width: 140px;
   height: 36px;
-  margin-top: 8px;
   background: #5cb85f;
   border: 0;
   color: #ffffff;
@@ -67,7 +66,6 @@ p {
 .image-girl {
   width: 459px;
   height: 428px;
-  grid-area: column-1;
 }
 
 h3 {
@@ -76,7 +74,6 @@ h3 {
 }
 .text-ourSection {
   padding-left: 115px;
-  grid-area: column-2;
 }
 .check-list {
   padding-top: 35px;
@@ -245,10 +242,13 @@ h3 {
   height: fit-content;
 }
 
+.accordion {
+  margin-bottom: 20px;
+  height: fit-content;
+}
+
 .list_faq {
-  display: flex;
-  flex-direction: column;
-  gap: 20px;
+  height: fit-content;
   width: 83%;
 }
 
