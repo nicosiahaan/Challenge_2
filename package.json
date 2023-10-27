@@ -3,10 +3,20 @@
   "version": "1.0.0",
   "description": "Project HTTP Server dan DOM",
   "main": "server/index.js",
-  "author": "Fikri Rahmat Nurhidayat <fnurhidayat@binar.co.id>",
+  "author": "Nikodemus Siahaan",
   "license": "MIT",
   "private": false,
   "scripts": {
     "start": "node server/index.js"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicosiahaan/Challenge_2.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/nicosiahaan/Challenge_2/issues"
+  },
+  "homepage": "https://github.com/nicosiahaan/Challenge_2#readme",
+  "dependencies": {}
 }
